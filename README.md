@@ -38,7 +38,7 @@ a quiz to determine a good place to serve in the church
         -   submit button
     -   Behavior:
         -   on submit, find or create user
-        -   send email for auth (not mvp)
+        -   send email for auth
         -   store user in state
         -   Go to quiz page
 -   Build quiz page
